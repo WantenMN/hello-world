@@ -1,6 +1,6 @@
 {
   "name": "@wanten/hello-world",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Wanten's first npm package",
   "keywords": [
     "hello-world"
