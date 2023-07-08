@@ -18,6 +18,9 @@
   },
   "funding": "https://github.com/WantenMN",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/WantenMN/hello-world.git"
